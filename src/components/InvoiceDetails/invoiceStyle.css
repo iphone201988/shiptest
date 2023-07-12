@@ -1,0 +1,39 @@
+.logo {
+    margin: 0px 12px 0px 0px;
+}
+
+.addressContent{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
+.shiphaulTopLeft {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.shiphaulMidLeft{
+    display: flex;
+    flex-direction:column;
+    align-items: left;
+    width: 42px;
+}
+.shiphaulTopRight{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+h2 {
+    margin: 0px 42px 0px 0px;
+}
+th{
+    width:30px
+}
+td{
+    width:30px
+}
+.end_right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}

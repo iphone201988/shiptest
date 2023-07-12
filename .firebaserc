@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "shiphaul-website",
+    "shiphaul-local": shiphaul-local",
+    "uat-testing": "shiphaul-carriers-uat"
+  }
+}

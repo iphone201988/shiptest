@@ -1,0 +1,1 @@
+export const FETCH_ACTiVE_DEVICES = "FETCH_ACTiVE_DEVICES" ;

@@ -1,0 +1,3 @@
+export const FETCH_LOCATIONS =  "FETCH_LOCATIONS"
+export const ADD_LOCATION = "ADD_LOCATION"
+export const DELETE_LOCATION = "ADD_LOCATION"

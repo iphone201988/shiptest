@@ -1,0 +1,9 @@
+import CarrierUserRole from "./carrier_user_role";
+
+export default class AdminRole extends CarrierUserRole {
+
+  constructor(RoleData) {
+    super(RoleData || {})
+  }
+
+}
